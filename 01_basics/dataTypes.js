@@ -14,3 +14,5 @@ console.log(typeof pi);
 // undefined => which is not defined
 // symbol => unique
 // and many more
+/*************** Datatype Summary*********** */
+
