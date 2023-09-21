@@ -15,4 +15,5 @@ console.log(student);
 console.log(obj["name"]);
 console.log(student["age"]);
 // Objects are also created using create() constructor
-
+const me = Object.create(student)
+console.log(me)
