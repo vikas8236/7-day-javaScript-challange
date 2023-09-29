@@ -5,6 +5,7 @@
 var a = 90;
 let b =30;
 if(true){
+    // inside the local Scope
    var  a = 89;
    let  b = 78;
     console.log(a);
